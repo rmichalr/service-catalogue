@@ -23,7 +23,6 @@ dist-ssr
 vite.config.ts
 
 # TypeScript configuration
-tsconfig.node.json
 tsconfig.app.json
 
 # Compiled JavaScript files
